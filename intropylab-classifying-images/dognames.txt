@@ -45,7 +45,7 @@ dandie dinmont, dandie dinmont terrier
 boston bull, boston terrier
 miniature schnauzer
 giant schnauzer
-standard schnauzer
+standard schnauzer, schnauzer
 scotch terrier, scottish terrier, scottie
 tibetan terrier, chrysanthemum dog
 silky terrier, sydney silky
@@ -110,11 +110,11 @@ pomeranian
 chow, chow chow
 keeshond
 brabancon griffon
-pembroke, pembroke welsh corgi
-cardigan, cardigan welsh corgi
+pembroke, pembroke welsh corgi, corgi
+cardigan, cardigan welsh corgi, corgi
 toy poodle
 miniature poodle
-standard poodle
+standard poodle, poodle
 mexican hairless
 affenpinscher
 afghan hound
@@ -158,9 +158,11 @@ chinese shar-pei
 chow chow
 clumber spaniel
 cocker spaniel
+corgi
 dachshund
 dalmatian
 dandie dinmont terrier
+deerhound
 doberman pinscher
 dogue de bordeaux
 english cocker spaniel
@@ -203,8 +205,20 @@ plott
 pointer
 poodle
 portuguese water dog
+pug
 saint bernard
+saluki
+samoyed
+schnauzer
+scottish terrier
+sealyham terrier
+shetland sheepdog
 silky terrier
 smooth fox terrier
+staffordshire bull terrier
+tibetan terrier
+vizsla
+walker hound
 wirehaired pointing griffon
 xoloitzcuintli
+dog
