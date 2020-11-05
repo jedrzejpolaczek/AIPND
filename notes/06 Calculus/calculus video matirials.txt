@@ -1,0 +1,19 @@
+Calculus
+01. Chapter 1 Calculusss -          https://www.youtube.com/watch?v=ss3NSODhFJI&feature=emb_logo
+02. Derivatives -                   https://www.youtube.com/watch?v=mzEit_Oe13E&feature=emb_logo
+03. Derivatives Through Geometry -  https://www.youtube.com/watch?v=mzllBDdtjIg&feature=emb_logo
+04. The Chain Rule -                https://www.youtube.com/watch?v=-Ti33VDPA7s&feature=emb_logo
+05. Derivatives of exponentials -   https://www.youtube.com/watch?v=QsEJGPVxsB8&feature=emb_logo
+06. Implicit Differentiation -      https://www.youtube.com/watch?v=2cNiF9ebdL0&feature=emb_logo
+07. Limits -                        https://www.youtube.com/watch?v=5aL7Fn-9NnQ&feature=emb_logo
+08. Integrals -                     https://www.youtube.com/watch?v=gKZvmxtM79Q&feature=emb_logo
+09. More on Integrals -             https://www.youtube.com/watch?v=OF3awXGM4k0&feature=emb_logo
+10. The Taylor Series -             https://www.youtube.com/watch?v=1BLFuSXfgMY&feature=emb_logo
+11. Multivariable Chain Rule -      https://www.youtube.com/watch?v=wXDy3P6F_P8&feature=emb_logo
+
+Calculus in Neural Network
+01. What is a Neural Network -      https://www.youtube.com/watch?v=hYB4ku0kmW8&feature=emb_logo
+02. Gradient Descent -              https://www.youtube.com/watch?v=f8PYXDsSBpM&feature=emb_logo
+03. Backpropagation -               https://www.youtube.com/watch?v=Wr5qCQ48t8E&feature=emb_logo
+04. Backpropagation and Calculus -  https://www.youtube.com/watch?v=_d52fwoXXd4&feature=emb_logo
+05. Gradient Computation Example -  https://www.youtube.com/watch?v=_K7lzXqyj8I&feature=emb_logo

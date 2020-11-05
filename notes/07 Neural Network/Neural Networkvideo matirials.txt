@@ -1,0 +1,99 @@
+Neural Network:
+01. Introduction - 												https://www.youtube.com/watch?v=tn-CrUTkCUc&feature=emb_logo
+02. Classification Problems part 1 - 							https://www.youtube.com/watch?v=Dh625piH7Z0&feature=emb_logo
+03. Classification Problems part 2 - 							https://www.youtube.com/watch?v=46PywnGa_cQ&feature=emb_logo
+04. Linear Boundaries - 										https://www.youtube.com/watch?v=X-uMlsBi07k&feature=emb_logo
+05. Higher Dimensions - 										https://www.youtube.com/watch?v=eBHunImDmWw&feature=emb_logo
+06. Perceptrons - 												https://www.youtube.com/watch?v=hImSxZyRiOw&feature=emb_logo
+07. Why "Neural Networks"? - 									https://www.youtube.com/watch?v=zAkzOZntK6Y&feature=emb_logo
+08. Perceptrons as Logical Operators: AND - 					https://www.youtube.com/watch?v=Y-ImuxNpS40&feature=emb_logo
+09. Perceptrons as Logical Operators: XOR - 					https://www.youtube.com/watch?v=-z9K49fdE3g&feature=emb_logo
+10. Perceptron Algorithm - 										https://www.youtube.com/watch?v=-zhTROHtscQ&feature=emb_logo
+11. Perceptron Algorithm: question -	 						https://www.youtube.com/watch?v=fATmrG2hQzI&feature=emb_logo
+12. Perceptron Trick - 											https://www.youtube.com/watch?v=lif_qPmXvWA&feature=emb_logo
+13. Perceptron Algorithm: Pseudocode - 							https://www.youtube.com/watch?v=p8Q3yu9YqYk&feature=emb_logo
+14. Non-Linear Regions - 										https://www.youtube.com/watch?v=B8UrWnHh1Wc&feature=emb_logo
+15. Error Functions - 											https://www.youtube.com/watch?v=YfUUunxWIJw&feature=emb_logo
+16. Log-loss Error Function -									https://www.youtube.com/watch?v=jfKShxGAbok&feature=emb_logo
+17. Discrete vs Continuous Predictions: Intro - 				https://www.youtube.com/watch?v=rdP-RPDFkl0&feature=emb_logo
+18. Discrete vs Continuous Predictions - 						https://www.youtube.com/watch?v=Rm2KxFaPiJg&feature=emb_logo
+19. Multi-Class Classification and Softmax - 					https://www.youtube.com/watch?v=NNoezNnAMTY&feature=emb_logo
+20. Classification Problem part 1 - 							https://www.youtube.com/watch?v=RC_A9Tu99y4&feature=emb_logo
+21. Classification Problem part 2 - 							https://www.youtube.com/watch?v=n8S-v_LCTms&feature=emb_logo
+22. One-Hot Encoding - 											https://www.youtube.com/watch?v=AePvjhyvsBo&feature=emb_logo
+23. Maximum Likelihood part 1 - 								https://www.youtube.com/watch?v=1yJx-QtlvNI&feature=emb_logo
+24. Maximum Likelihood part 2 - 								https://www.youtube.com/watch?v=6nUUeQ9AeUA&feature=emb_logo
+25. Maximizing Probabilities part 1 -							https://www.youtube.com/watch?v=-xxrisIvD0E&feature=emb_logo
+26. Maximizing Probabilities part 1 -							https://www.youtube.com/watch?v=njq6bYrPqSU&feature=emb_logo
+28. Cross-Entropy part 1 - 										https://www.youtube.com/watch?v=iREoPUrpXvE&feature=emb_logo
+29. Cross-Entropy part 2 - 										https://www.youtube.com/watch?v=qvr_ego_d6w&feature=emb_logo
+30. Cross-Entropy part 3 - 										https://www.youtube.com/watch?v=1BnhC6e0TFw&feature=emb_logo
+31. Multi-Class Cross Entropy - 								https://www.youtube.com/watch?v=keDswcqkees&feature=emb_logo
+32. Logistic Regression: Error Function - 						https://www.youtube.com/watch?v=V5kkHldUlVU&feature=emb_logo
+33. Logistic Regression: Minimizing the Error Function - 		https://www.youtube.com/watch?v=KayqiYijlzc&feature=emb_logo
+34. Gradient Descent - 											https://www.youtube.com/watch?v=rhVIF-nigrY&feature=emb_logo
+35. Logistic Regression Algorithm - 							https://www.youtube.com/watch?v=snxmBgi_GeU&feature=emb_logo
+36. Perceptron vs Gradient Descent - 							https://www.youtube.com/watch?v=uL5LuRPivTA&feature=emb_logo
+37. Continuous Perceptrons - 									https://www.youtube.com/watch?v=07-JJ-aGEfM&feature=emb_logo
+38. Non-linear Data - 											https://www.youtube.com/watch?v=F7ZiE8PQiSc&feature=emb_logo
+39. Non-Linear Models - 										https://www.youtube.com/watch?v=HWuBKCZsCo8&feature=emb_logo
+40. Neural Network Architecture part 1: Combination models - 	https://www.youtube.com/watch?v=Boy3zHVrWB4&feature=emb_logo					
+41. Neural Network Architecture part 2 - 						https://www.youtube.com/watch?v=FWN3Sw5fFoM&feature=emb_logo
+42. Multiple layers - 											https://www.youtube.com/watch?v=pg99FkXYK0M&feature=emb_logo
+43. Multi-Class Classification - 								https://www.youtube.com/watch?v=uNTtvxwfox0&feature=emb_logo
+44. Feedforward - 												https://www.youtube.com/watch?v=hVCuvMGOfyY&feature=emb_logo
+45. Neural Network Error Function - 							https://www.youtube.com/watch?v=SC1wEW7TtKs&feature=emb_logo
+46. Backpropagation - 											https://www.youtube.com/watch?v=1SmY3TZTyUk&feature=emb_logo
+47. Calculating The Gradient part 1 -							https://www.youtube.com/watch?v=tVuZDbUrzzI&feature=emb_logo
+48. Chain Rule - 												https://www.youtube.com/watch?v=YAhIBOnbt54&feature=emb_logo
+49. Calculating The Gradient part 2 -							https://www.youtube.com/watch?v=7lidiTGIlN4&feature=emb_logo
+
+Implementing Gradient Descent:
+01. Enter Gradient Descent -									https://www.youtube.com/watch?v=29PmNG7fuuM&feature=emb_logo
+02. Gradient Descent: The Math -								https://www.youtube.com/watch?v=7sxA5Ap8AWM&feature=emb_logo
+03. Multilayer Perceptrons - 									https://www.youtube.com/watch?v=Rs9petvTBLk&feature=emb_logo
+04. Backpropagation - 											https://www.youtube.com/watch?v=MZL97-2joxQ&feature=emb_logo
+
+Training Neural Network:
+01. Training Optimization - 									https://www.youtube.com/watch?v=UiGKhx9pUYc&feature=emb_logo
+02. Testing - 													https://www.youtube.com/watch?v=EeBZpb-PSac&feature=emb_logo
+03. Overfitting and Underfitting - 								https://www.youtube.com/watch?v=xj4PlXMsN-Y&feature=emb_logo
+04. Early Stopping - 											https://www.youtube.com/watch?v=NnS0FJyVcDQ&feature=emb_logo
+05. Regularization part 1 -										https://www.youtube.com/watch?v=KxROxcRsHL8&feature=emb_logo
+06. Regularization part 2 -										https://www.youtube.com/watch?v=ndYnUrx8xvs&feature=emb_logo
+07. Dropout - 													https://www.youtube.com/watch?v=Ty6K6YiGdBs&feature=emb_logo
+08. Local Minima - 												https://www.youtube.com/watch?v=gF_sW_nY-xw&feature=emb_logo
+09. Random Restart - 											https://www.youtube.com/watch?v=idyBBCzXiqg&feature=emb_logo
+10. Vanishing Gradient - 										https://www.youtube.com/watch?v=W_JJm_5syFw&feature=emb_logo
+11. Other Activation Functions - 								https://www.youtube.com/watch?v=kA-1vUt6cvQ&feature=emb_logo
+12. Batch vs Stochastic Gradient Descent - 						https://www.youtube.com/watch?v=2p58rVgqsgo&feature=emb_logo
+13. Learning Rate Decay - 										https://www.youtube.com/watch?v=TwJ8aSZoh2U&feature=emb_logo
+14. Momentum - 													https://www.youtube.com/watch?v=r-rYz_PEWC8&feature=emb_logo
+15. Error Functions Around the World - 							https://www.youtube.com/watch?v=34AAcTECu2A&feature=emb_logo
+
+Deep Learning with PyTorch:
+01. Single layer neural networks - 								https://www.youtube.com/watch?v=6Z7WntXays8&feature=emb_logo
+02. Single layer neural networks solution - 					https://www.youtube.com/watch?v=mNJ8CujTtpo&feature=emb_logo
+03. Networks Using Matrix Multiplication - 						https://www.youtube.com/watch?v=QLaGMz8Ca3E&feature=emb_logo
+04. Multilayer Networks Solution - 								https://www.youtube.com/watch?v=iMIo9p5iSbE&feature=emb_logo
+05. Neural Networks in PyTorch - 								https://www.youtube.com/watch?v=CSQOdOb2mlg&feature=emb_logo
+06. Neural Networks Solution - 									https://www.youtube.com/watch?v=zym36ihtOMY&feature=emb_logo
+07. Implementing Softmax Solution - 							https://www.youtube.com/watch?v=8KRX7HvqfP0&feature=emb_logo
+08. Network Architectures in PyTorch - 							https://www.youtube.com/watch?v=9ILiZwbi9dA&feature=emb_logo
+09. Network Architectures Solution - 							https://www.youtube.com/watch?v=zBWlOeX2sQM&feature=emb_logo
+10. Training a Network Solution - 								https://www.youtube.com/watch?v=ExyFG2MjsKs&feature=emb_logo
+11. Classifying Fashion-MNIST - 								https://www.youtube.com/watch?v=AEJV_RKZ7VU&feature=emb_logo
+12. Fashion-MNIST Solution - 									https://www.youtube.com/watch?v=R6Y4hPLVQWM&feature=emb_logo
+13. Inference and Validation - 									https://www.youtube.com/watch?v=XACXlkIdS7Y&feature=emb_logo
+14. Validation Solution - 										https://www.youtube.com/watch?v=AjrXltxqsK4&feature=emb_logo
+15. Dropout Solution - 											https://www.youtube.com/watch?v=3Py2SbtZLbc&feature=emb_logo
+16. Saving and Loading Models - 								https://www.youtube.com/watch?v=psmrPu-mseA&feature=emb_logo
+17. Loading Image Data - 										https://www.youtube.com/watch?v=hFu7GTfRWks&feature=emb_logo
+18. Loading Image Data Solution - 								https://www.youtube.com/watch?v=d_NhvI1yEf0&feature=emb_logo
+19. Transfer Learning II - 										https://www.youtube.com/watch?v=S9F7MtJ5jls&feature=emb_logo
+20. Transfer Learning Solution - 								https://www.youtube.com/watch?v=4n6T93hKRD4&feature=emb_logo
+21. 
+22. 
+23. 
+24. 
+25. 

@@ -1,0 +1,15 @@
+Linear Algebra
+1. Essence Of Linear Algebra Intro -                        https://www.youtube.com/watch?v=EHcxDZpeGFg&feature=emb_logo
+2. Vectors 1 -                                              https://www.youtube.com/watch?v=oPBz-MLVUHk&feature=emb_logo
+3. Vectors 2 -                                              https://www.youtube.com/watch?v=R7WiQYixvRQ&feature=emb_logo
+4. Vectors 3 -                                              https://www.youtube.com/watch?v=mWV_MpEjz9c&feature=emb_logo
+5. Linear Combinations, Span and Basis Vectors. Part 1 -    https://www.youtube.com/watch?v=fmal7UE7dEE&feature=emb_logo
+6. Linear Combinations, Span and Basis Vectors. Part 2 -    https://www.youtube.com/watch?v=RsKJNDTb8nw&feature=emb_logo
+7. Linear Transformation and Matrices . Part 1 -            https://www.youtube.com/watch?v=99jYIxBRDww&feature=emb_logo
+8. Linear Transformation and Matrices . Part 2 -            https://www.youtube.com/watch?v=imtEd8M6__s&feature=emb_logo
+9. Linear Transformation and Matrices . Part 3 -            https://www.youtube.com/watch?v=g_yTyRwMzXU&feature=emb_logo
+
+Linear Algebra in Neural Networks
+1. LinearAlgebra 05 RNN FFNN Reminder PAIND 82mp4 V1 -      https://www.youtube.com/watch?v=SSgQRH-V-1k&feature=emb_logo
+2. Linear Algebra 06 FeedForward A V7 PAIND83 V1 -          https://www.youtube.com/watch?v=kQ6rNndcA1I&feature=emb_logo
+3. LinearAlgebra 07 FeedForward PAIND85 V3 -                https://www.youtube.com/watch?v=pvF6jpS_-cU&feature=emb_logo
